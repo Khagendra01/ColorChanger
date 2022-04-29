@@ -1,0 +1,11 @@
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\bin\Debug\ChangeColor.exe.config
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\bin\Debug\ChangeColor.exe
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\bin\Debug\ChangeColor.pdb
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csproj.AssemblyReference.cache
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.Form1.resources
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.Properties.Resources.resources
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csproj.GenerateResource.cache
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.csproj.CoreCompileInputs.cache
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.exe
+C:\Users\Khage\source\repos\ChangeColor\ChangeColor\obj\Debug\ChangeColor.pdb
